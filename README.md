@@ -1,7 +1,8 @@
 # Banco de dados de Ecommerce
 
 - O banco de dados foi feito com base em meu diagrama de ecommerce.
-- Foram feitas consultas com SELECT Statement, SELECT Statement, ORDER BY, HAVING Statement com base em algumas perguntas como essas:
+
+Foram feitas consultas com SELECT Statement, SELECT Statement, ORDER BY, HAVING Statement com base em algumas perguntas como essas:
 
 - Quantos pedidos foram feitos por cada cliente?
 - Algum vendedor também é fornecedor?
